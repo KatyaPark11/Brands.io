@@ -1,0 +1,11 @@
+.logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin: 232px 155px 0 155px;
+}
+.logos__item {
+  text-align: center;
+  margin: 0 10px;
+}

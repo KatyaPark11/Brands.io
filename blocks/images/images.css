@@ -1,0 +1,39 @@
+.images {
+  display: flex;
+  position: relative;
+}
+.images__image1 {
+  width: 314px;
+  position: absolute;
+  top: 143px;
+  right: 326px;
+  z-index: 1; 
+}
+.images__image2 {
+  width: 434px;
+  position: absolute;
+  top: 216px;
+  right: 6px;
+  z-index: 2;
+}
+.images__image3 {
+  width: 473px;
+  position: absolute;
+  top: 516px;
+  right: 1px;
+  z-index: 3;
+}
+.images__image4 {
+  width: 325px;
+  position: absolute;
+  top: 661px;
+  right: 92px;
+  z-index: 4;
+}
+.images__image5 {
+  width: 432px;
+  position: absolute;
+  top: 416px;
+  right: 367px;
+  z-index: 5;
+}
