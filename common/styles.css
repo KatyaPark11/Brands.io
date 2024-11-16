@@ -42,13 +42,9 @@ p, li {
   color: #3E4581;
 }
 body {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;  
-  background-image: url('/resources/images/Lines.png'), url('/resources/images/Figure.png');
-  background-size: cover, cover;
-  background-position: 0, 268px 0;
-  background-repeat: no-repeat, no-repeat;
+  background: url('/resources/images/Lines.png') 50% 0 / cover no-repeat, url('/resources/images/Figure.png') 50% 35px / cover no-repeat;
   min-height: 100vh;
   min-width: 1440px;
+  max-width: 1440px;
+  margin: 0px auto;
 }

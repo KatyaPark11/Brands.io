@@ -2,10 +2,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 103.96px;
   padding: 20px;
-  margin: 232px 155px 0 155px;
+  margin-top: 232px;
 }
 .logos__item {
   text-align: center;
-  margin: 0 10px;
 }
